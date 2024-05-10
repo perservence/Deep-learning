@@ -1,3 +1,4 @@
 # Deep-learning
-my first git repositary
-name : vaishanvi wankahde
+my first git repository
+<br>
+Name : Vaishanvi Wankahde
